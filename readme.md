@@ -14,8 +14,6 @@ Finally, release your Awesome List with an choice of open [licenses](#license).
 Still unsure?
 Check out some [awesome examples](#awesome-examples) that others had done.
 
-The [original Awesome](https://github.com/sindresorhus/awesome).
-
 ## Content <!-- omit in toc -->
 - [Awesome Tools](#awesome-tools)
 - [Badges](#badges)
@@ -36,8 +34,8 @@ Add one of these Awesome badges to your list
 - [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 - [shields.io](https://shields.io/) - create all the shields you need.
   - Your name - ![Creator](https://img.shields.io/badge/Creator-lcenchew-blue.svg)
-  - Your repo stars - ![Awesome](https://img.shields.io/github/stars/P-P-X/awesome-collector.svg?style=social&label=Stars)
-  - Your Twitter followers - ![Twitter Follow](https://img.shields.io/twitter/follow/billgates.svg?label=Follow&maxAge=2592000)
+  - Your repo stars - [![Awesome](https://img.shields.io/github/stars/lcenchew/awesome-awesome?style=social)](https://github.com/lcenchew/awesome-awesome)
+  - Follow your X (formerly Twitter)  - [![X (formerly Twitter)](https://img.shields.io/twitter/follow/lcenchew)](https://twitter.com/lcenchew)
 
 ## Community
 Create a list with others can be more fun.
@@ -49,21 +47,16 @@ Automate, automate, automate.
 Add a tip box to buy coffee for your effort. 
 
 ## License
-Make know your content license.
+Make known your content license.
 
 ## Awesome Examples
 Some awesome examples to inspire and learn from.
 
 (in no particular order)
 - The original [Awesome](https://github.com/sindresorhus/awesome)
-- [Awesome AutoIt](https://github.com/J2TEAM/awesome-AutoIt) - checkout the sponsoring
-- [Awesome SwiftUI](https://github.com/vlondon/awesome-swiftui) - 
-- [generator-awesome-list](https://github.com/dar5hak/generator-awesome-list) - generation tool, template
-- [Awesome GitHub Issues & PRs Templates](https://github.com/devspace/awesome-github-templates) - template, liberal use of emoji
-- [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - [Licenses](https://github.com/awesome-selfhosted/awesome-selfhosted#list-of-licenses), ^ back to top ^
-- [Awesome AWS](https://github.com/donnemartin/awesome-aws) - 🔥 and images
-- [Search Awesome](https://awesome-indexed.mathew-davies.co.uk/)
-
-Suggest
-
-
+- [Awesome AutoIt](https://github.com/J2TEAM/awesome-AutoIt) > checkout the sponsoring list
+- [Awesome SwiftUI](https://github.com/vlondon/awesome-swiftui) > awesome header graphic 
+- [generator-awesome-list](https://github.com/dar5hak/generator-awesome-list) > generation tool, template
+- [Awesome GitHub Issues & PRs Templates](https://github.com/devspace/awesome-github-templates) > template, use of emoji for headings
+- [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) > choose your [Licenses](https://github.com/awesome-selfhosted/awesome-selfhosted#list-of-licenses), link `^ back to top ^`
+- [Awesome AWS](https://github.com/donnemartin/awesome-aws) > nice 🔥 ratings and images
